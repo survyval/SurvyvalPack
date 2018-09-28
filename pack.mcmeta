@@ -1,6 +1,9 @@
 {
-	"pack" : {
-		"pack_format" : 3,
-		"description": "The official Survyval resourcepack!"
-	}
+  "pack": {
+    "pack_format": 4,
+    "description": "The official Survyval resourcepack!"
+  },
+  "meta": {
+    "game_version": "1.13"
+  }
 }

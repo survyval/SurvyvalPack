@@ -1,5 +1,5 @@
 {
-    "variants": {
-        "normal": { "model": "lead_ore" }
-    }
+  "variants": {
+    "": { "model": "block/lead_ore" }
+  }
 }
